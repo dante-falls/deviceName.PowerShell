@@ -1,7 +1,7 @@
 <h1>deviceName - Computer Name Identification</h1>
 
  ### Articles I Wrote To Demonstrate The Script -
- ### [A PowerShell Script That Can Help You Support The End User](https://medium.com/@dante.falls/a-powershell-script-that-can-help-you-support-the-end-user-2ba3ab5b258f)
+ ### [deviceName - A PowerShell Script That Can Help You Support The End User](https://medium.com/@dante.falls/a-powershell-script-that-can-help-you-support-the-end-user-2ba3ab5b258f)
  ### [How To Deploy A PowerShell Script In Active Directory Using GPO](https://medium.com/@dante.falls/how-to-deploy-a-powershell-script-in-active-directory-using-gpo-9f70739e2bee)
 
 <h2>Description</h2>
