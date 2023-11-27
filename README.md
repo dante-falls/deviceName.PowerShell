@@ -11,7 +11,7 @@ Click on the medium articles above to learn how to use and deploy this script. I
 <br />
 
 <h2>Script Deployment</h2>
-Use the deviceName_deploy.ps1 script with a Logon Script Group Policy Object to deploy this script in your Active Directory domain. 
+Use the deviceName_deploy.ps1 script with a Group Policy Object to deploy deviceName.ps1 in your Active Directory domain. Make sure to customize your deployment script to match your file system. Reference the above demonstration articles for help.
 <br />
 
 <h2>Languages and Utilities Used</h2>
